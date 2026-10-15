@@ -1,0 +1,13 @@
+{
+  "name": "@fallout-demo/cli-tool",
+  "version": "2.1.0",
+  "description": "Internal release helper CLI.",
+  "type": "module",
+  "bin": { "relx": "bin/relx.js" },
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "debug": "^4.3.4",
+    "commander": "^12.1.0",
+    "ora": "^8.1.0"
+  }
+}
